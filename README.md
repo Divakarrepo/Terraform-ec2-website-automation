@@ -1,3 +1,5 @@
+![terraform](Terraform.png)
+
 # Terraform EC2 Website Automation
 
 ## Overview
